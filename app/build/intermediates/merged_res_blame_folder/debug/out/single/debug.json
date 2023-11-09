@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/drawable_header_sqr_img.jpg.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/drawable/header_sqr_img.jpg"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-48:/drawable_play_button.jpg.flat",
+        "source": "com.example.myapplication.app-main-50:/drawable/play_button.jpg"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/drawable_video_preview_1.jpg.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/drawable/video_preview_1.jpg"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/drawable_person1.jpg.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/drawable/person1.jpg"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/drawable_header_logo.png.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/drawable/header_logo.png"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/xml_backup_rules.xml.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/drawable_header_img.jpg.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/drawable/header_img.jpg"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/drawable_video_preview_2.jpg.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/drawable/video_preview_2.jpg"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/drawable_person2.jpg.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/drawable/person2.jpg"
+    },
+    {
+        "merged": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/vlad/.gradle/daemon/8.0/com.example.myapplication.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
